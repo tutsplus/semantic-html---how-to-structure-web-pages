@@ -1,2 +1,7 @@
-# semantic-html---how-to-structure-web-pages
-Exercise files for Tuts+ course: Semantic HTML- How to Structure Web Pages
+### Tuts+ Course: Semantic HTML- How to Structure Web Pages
+#### Instructor: Craig Campbell
+
+
+
+
+**Available on Tuts+ June 2015**
